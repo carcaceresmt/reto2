@@ -16,8 +16,7 @@ class Camisa:
     Metodo Mostrar
     '''
     def mostrar(self):
-        print("mostrar datos") 
-        print("Datos de Camisa")
+        print("Datos de Camisa 1")
         print("Talla ",self.__talla)
         print("Precio",self.__precio)
         print("Color",self.__color)
